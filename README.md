@@ -1,4 +1,4 @@
-![Image](https://github.com/thomasbowes/UNIMELB-IT-PROJECT/blob/development/client/src/assets/Logo/logowithbluebg.png)
+![Image](https://github.com/rayjtchen/Unimelb-COMP30022-IT_Project-2020/blob/development/client/src/assets/Logo/logowithbluebg.png)
 
 <div align="center">
   
@@ -72,7 +72,12 @@ Make sure that you have installed both Node.js and npm.
 * Users can share their portfolio via social media or email
 # Test Cases
 ---
-[Take a look here](https://github.com/thomasbowes/UNIMELB-IT-PROJECT/actions?query=workflow%3A%22test+CI%22)
+[Take a look here](https://github.com/rayjtchen/Unimelb-COMP30022-IT_Project-2020/actions?query=workflow%3A%22test+CI%22)
+
+# Website link
+---
+[http://www.folio.exchange](http://www.folio.exchange/)
+
 # Contributors
 --- 
 * Yige Song
